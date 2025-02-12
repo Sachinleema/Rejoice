@@ -419,6 +419,7 @@ footer {
     font-size: 20vw;
     line-height: 21vw;
     letter-spacing: 0.5vw;
+    margin-bottom: 50px;
   }
   #page2-header {
     margin-top: 20px;
@@ -432,6 +433,7 @@ footer {
     padding: 5vw;
     margin: 0;
   }
+
   #page3 #page3-top h4 {
     font-size: 6vw;
   }
