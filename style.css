@@ -70,6 +70,7 @@ nav {
   justify-content: space-between;
   padding: 3vw 3vw;
   width: 100%;
+  background: none;
 }
 nav h3 {
   font-size: 1.4vw;
@@ -404,7 +405,7 @@ footer {
 }
 @media only screen and (max-width: 600px) {
   nav {
-    padding: 5vw 5vw;
+    padding: 8vw 5vw;
   }
   nav h3,
   nav h4 {
