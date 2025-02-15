@@ -6,6 +6,7 @@
   font-family: rejoy;
   src: url(./Rejouice-Headline.ttf);
 }
+
 * {
   margin: 0;
   padding: 0;
@@ -18,6 +19,9 @@ body {
   height: 100vh;
   width: 100%;
   background-color: #faf8f3;
+}
+video {
+  pointer-events: none;
 }
 
 #page1 {
